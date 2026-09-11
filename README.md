@@ -54,19 +54,6 @@ Driven **Python & Backend Developer** passionate about architecting scalable RES
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek-singh-rajawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-singh-rajawat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-singh-rajawat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
