@@ -1,19 +1,81 @@
-<h1 align="center">Hey There 👋, I'm Vivek Singh Rajawat.</h1>
-<h3 align="center">A passionate full developer from India</h3>
+# <p align="center">👋 Hi, I'm Vivek Singh Rajawat</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekvampyr&label=Profile%20views&color=0e75b6&style=flat" alt="vivekvampyr" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vivek-rajawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-rajawat-09a1b5243/" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_vivekvampyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_vivekvampyr" height="30" width="40" /></a>
+<p align="center">
+  <b>Python Developer & Backend Engineer</b> • <b>AI / LLM Integrations</b> • <b>Cross-Platform Solutions</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/vivek-singh-rajawat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vivek.rajawat1522@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Location-Indore%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekvampyr&show_icons=true&locale=en&layout=compact" alt="vivekvampyr" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer+%7C+Backend+Engineer;FastAPI+%2B+PostgreSQL+%2B+Async+Architecture;Building+Scalable+Microservices+%26+RAG+Systems;AI+Enthusiast+%26+Flutter+Mobile+Explorer" alt="Typing SVG" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekvampyr&" alt="vivekvampyr" /></p>
+---
+
+### 🚀 About Me
+
+Driven **Python & Backend Developer** passionate about architecting scalable RESTful APIs, high-throughput asynchronous services, and production-ready AI/LLM applications. Currently crafting robust backend architectures and AI-driven systems at **Brain Inventory**.
+
+- 🔭 **Current Focus:** Scalable SaaS microservices, enterprise RBAC patterns, and production RAG pipelines.
+- 💡 **Specialties:** FastAPI, PostgreSQL, Async Programming, LLM/Gemini Integration, and Flutter cross-platform frontends.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, Sage University (*CGPA: 8.63 / 10*).
+- 📜 **Certified:** OCI 2025 Certified Data Science Professional (Oracle).
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square) |
+| **Databases & Auth** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-4CAF50?style=flat-square) |
+| **AI / ML & Testing** | ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![LLMs](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat-square) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Game Dev & 3D** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![3D Modeling](https://img.shields.io/badge/3D_Modeling-EA7600?style=flat-square) |
+
+---
+
+### 💼 Experience
+
+#### **Software Developer Intern** — *Brain Inventory* `(Aug 2026 – Present)`
+- **Multi-Vendor SaaS Platform:** Architected end-to-end backend microservices featuring multi-tenant Role-Based Access Control (Admin, Vendor, Customer).
+- **Secure APIs:** Engineered asynchronous endpoints for JWT-based auth, secure transactions, and real-time chat between Admin, Vendors, and Customers.
+- **AI Interview Preparation Bot:** Integrated Google Gemini API with Retrieval-Augmented Generation (RAG) and PostgreSQL vector storage to power dynamic, contextual mock technical interviews.
+
+#### **Freelance Game Developer & 3D Modeler** `(2024 – 2025)`
+- Designed and built a modular First-Person Shooter (FPS) in Unity engine with advanced weapon mechanics and reactive enemy AI.
+- Developed an Auto Rickshaw vehicle simulator featuring realistic suspension/drift physics and interactive city gameplay loops.
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek-singh-rajawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-singh-rajawat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-singh-rajawat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vivek-singh-rajawat"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:vivek.rajawat1522@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <i>⭐️ Designed with care for clean architectures and scalable code.</i>
+</p>
 
 ![Snake](https://raw.githubusercontent.com/Vivekvampyr/Vivekvampyr/output/snake.svg)
